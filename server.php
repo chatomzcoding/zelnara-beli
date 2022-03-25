@@ -8,15 +8,15 @@ function rupiah($angka)
 
 function link_server()
 {
-    $url    = 'http://localhost/chatomz/company/api/';
-    // $url    = 'https://sistem.zelnara.com/api/';
+    // $url    = 'http://localhost/chatomz/company/api/';
+    $url    = 'https://sistem.zelnara.com/api/';
     return $url;
 }
 
 function link_folder()
 {
-    $url    = 'http://localhost/chatomz/company/';
-    // $url    = 'https://sistem.zelnara.com/';
+    // $url    = 'http://localhost/chatomz/company/';
+    $url    = 'https://sistem.zelnara.com/';
     return $url;
 }
 
